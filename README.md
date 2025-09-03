@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hola! soy Mike 👋<br><br>🔭 Actualmente trabajando como desarrollador web con enfoque en diseño Front-end.<br>🌱 En constante aprendizaje, explorando Frameworks y buenas prácticas de programación.<br><br>
+![Header](./github-header-banner.png)<br><br>
+🔭 Actualmente trabajando como desarrollador web con enfoque en diseño Front-end.<br>🌱 En constante aprendizaje, explorando Frameworks y buenas prácticas de programación.<br><br>
 
 
 ## 🌐 Socials:
