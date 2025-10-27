@@ -1,5 +1,5 @@
-![Header](../github-header-banner.png)<br><br>
-🔭 Actualmente trabajando como desarrollador web con enfoque en diseño Front-end.<br>🌱 En constante aprendizaje, explorando Frameworks y buenas prácticas de programación.<br><br>
+
+🔭 Técnico en Análisis y Programación, con formación en el desarrollo de soluciones informáticas, dearrollo web y optimización de procesos.<br><br>
 
 
 ## 🌐 Socials:
